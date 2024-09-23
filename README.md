@@ -32,3 +32,14 @@
 ### Clone
 * Purpose: Create a local copy of a repository on your machine
 * Where it occurs: `Local machine`
+
+## most common commands for git:
+```
+git init
+git status
+git add .
+git commit
+git push
+git merge, rebase, cherry-pick
+git checkout 
+```
