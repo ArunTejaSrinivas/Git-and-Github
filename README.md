@@ -36,6 +36,9 @@
 ## most common commands for git:
 ```
 git init
+git log
+git diff
+git reset --hard ________ : to come to version first
 git status
 git add .
 git commit
