@@ -38,6 +38,7 @@
 git init
 git log
 git diff
+git remote add origin https://github.com/your-username/your-repo-name.git: To create a repo on you account 
 git reset --hard ________ : to come to version first
 git status
 git add .
