@@ -26,9 +26,9 @@
 *  It adds collaboration tools, such as issue tracking, pull requests, and more, on top of Git.
 
 ## Difference between Fork and Clone:
-Fork	
-Purpose:	Create a copy of a repository under your own account	
-Where it occurs: `GitHub (or another hosting platform)`
-Clone
-Purpose: Create a local copy of a repository on your machine
-Where it occurs: `Local machine`
+### Fork	
+* Purpose:	Create a copy of a repository under your own account
+* Where it occurs: `GitHub (or another hosting platform)`
+### Clone
+* Purpose: Create a local copy of a repository on your machine
+* Where it occurs: `Local machine`
