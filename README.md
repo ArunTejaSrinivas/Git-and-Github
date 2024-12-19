@@ -5,11 +5,11 @@
  * It allows multiple users to collaborate on a project, ensures that changes can be traced, and provides to revert to earlier versions if necessary.
 
 ### Key Features of Version Control Systems:
-1) Track Changes
-2) Collaboration
-3) History of Changes
-4) Branching and Merging
-5) Backup and Recovery
+1) Track Changes (History of Changes)
+2) Rollback (Revert files to a previous state)
+3) Collaboration
+5) Branching and Merging
+6) Backup and Recovery
 
 ## Types of Version Control Systems:
 * Centralized Version Control System (CVCS)
